@@ -16,7 +16,7 @@ firstLetters = greet[0:4]  # Stores the x to y letters of the string with z step
 #  Using [-x,-y] counts [x,y] letters from the end. | [-z] counts Backwards.
 print("Your name's first letter is: " + firstLetter)
 print("Hitler is in " + firstLetters)
-
+test=5
 
 num = 25
 favoriteNumber = "Your favorite number is: "
